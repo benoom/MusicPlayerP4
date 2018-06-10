@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Podcast Player</string>
+
+    <!-- Podcast name for RadioLab -->
+    <string name="podcast_radioLab">RadioLab</string>
+
+    <!-- Podcast name for Freakonomics -->
+    <string name="podcast_freakonomics">Freakonomics Radio</string>
+
+    <!-- Podcast name for TED Radio Hour -->
+    <string name="podcast_tedRadioHour">TED Radio Hour</string>
+
+</resources>

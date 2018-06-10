@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#03A9F4</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="primary_dark_color">#0288D1</color>
+
+    <!-- Background color for app -->
+    <color name="main_background">#B3E5FC</color>
+
+    <!-- Accent color for app -->
+    <color name="accent_color">#FFEB3B</color>
+
+    <!-- Background color for RadioLab podcast title -->
+    <color name="radiolab_color">#FD8E09</color>
+
+    <!-- Background color for Freakonomics Radio title -->
+    <color name="freakonomics_color">#379237</color>
+
+    <!-- Background color for TED Radio Hour title -->
+    <color name="tedradio_color">#8800A0</color>
+</resources>
